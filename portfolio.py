@@ -70,6 +70,8 @@ elif page == "Projects":
     )
     st.write(
         "GitHub Link: https://github.com/muhammadnaeemghulamyaseen/Simple-Arithmetic-Calculator.git"
+    )
+    st.write(
         "Live: https://simple-arithmetic-calculator.streamlit.app/"
     )
 
@@ -79,6 +81,8 @@ elif page == "Projects":
     )
     st.write(
         "GitHub Link: https://github.com/muhammadnaeemghulamyaseen/Simple-LangChain-Chatbot.git"
+    )
+    st.write(
         "Live: https://muhammadnaeemghulamyaseenchatbot.streamlit.app/)"
     )
 
