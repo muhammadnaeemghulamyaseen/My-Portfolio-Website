@@ -22,9 +22,10 @@ if page == ("About me"):
 if page == ("Projects"):
     st.title("Projects")
     st.write("Here are some of the projects I have worked on:")
-    st.write("- Project 1: Description of project 1")
-    st.write("- Project 2: Description of project 2")
-    st.write("- Project 3: Description of project 3")
+    
+    st.write("- Project 1: Simple Arithmetic Calculator")
+    st.write("Github link: https://github.com/muhammadnaeemghulamyaseen/Simple-Arithmetic-Calculator.git")
+    st.write("Live link: https://simple-arithmetic-calculator.streamlit.app/")
 
 if page == ("Contact"):
     st.title("Contact")
