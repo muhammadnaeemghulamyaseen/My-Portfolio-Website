@@ -86,6 +86,9 @@ elif page == "Projects":
         "Live Link: https://muhammadnaeemghulamyaseenchatbot.streamlit.app/)"
     )
 
+    st.subheader("This is my old githum link")
+    st.write("https://github.com/muhammadnaeemworld11-ctrl?tab=repositories")
+
 elif page == "Skills":
     st.title("Skills")
 
